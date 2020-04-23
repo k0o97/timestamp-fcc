@@ -19,7 +19,7 @@ app.get("/", function (req, res) {
 });
 
 app.get('/api/timestamp/:datestring?', function(req, res) {
-  let str = req.params.datestring;
+  let str = req.params.datestring ? req.params.datestring : "";
 
   if (!str.match(/^[0-9|\-+]{0,}$/i)) {
     return res.json({ error: 'Invalid Date' });
