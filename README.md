@@ -2,7 +2,7 @@
 # API Project: Timestamp Microservice for FCC
 
 ### Demo:
-*[project_url] https://k0o97-timestamp-fcc.glitch.me/
+* [project_url] https://k0o97-timestamp-fcc.glitch.me/
 
 ### User stories :
 
