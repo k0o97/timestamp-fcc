@@ -1,5 +1,5 @@
 
-# API Project: Timestamp Microservice for FCC
+# API Project: Timestamp Microservice
 
 ### Demo:
 * [project_url] https://k0o97-timestamp-fcc.glitch.me/
